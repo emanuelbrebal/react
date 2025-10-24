@@ -1,2 +1,2 @@
 # react
-Estudos de React + Typescript.
+Fundamental studies about React and Typescript.
