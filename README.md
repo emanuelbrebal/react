@@ -1,2 +1,2 @@
 # react
-estudos de react.
+Estudos de React + Typescript.
